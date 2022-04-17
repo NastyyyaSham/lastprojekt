@@ -1,0 +1,202 @@
+
+{
+    "recipes": [
+        {
+            "id": "rec1",
+            "dishImage": "assets/recipes_img/zefir.png",
+            "title": "Зефир Тимьян-клубника",
+            "duration": "30 mins/18-24 hours",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Meditarrian",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec2",
+            "dishImage": "assets/recipes_img/vitaminC.png",
+            "title": "Трайфл Витами С",
+            "duration": "2 hour",
+            "source": "https://",
+            "information": [
+                "Course: Dessert",
+                "Price: Somewhat cheap",
+                "Cuisine: American",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec3",
+            "dishImage": "assets/recipes_img/soup.png",
+            "title": "Сырный крем-суп",
+            "duration": "20 mins",
+            "source": "https://",
+            "information": [
+                "Course: Breakfast",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec4",
+            "dishImage": "assets/recipes_img/rulet.png",
+            "title": "Рулет из слоеного теста",
+            "duration": "1 hour",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Expensive",
+                "Cuisine: Italian",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec5",
+            "dishImage": "assets/recipes_img/mint.png",
+            "title": "Мятное печенье",
+            "duration": "40 mins",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Thai",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+
+        },
+        {
+            "id": "rec6",
+            "dishImage": "assets/recipes_img/medalon.png",
+            "title": "Медальоны из говядины в беконе",
+            "duration": "20 mins",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec7",
+            "dishImage": "assets/recipes_img/lavanda.png",
+            "title": "Лавандовое печенье",
+            "duration": "20 mins",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Vietnamese",
+                "Skill Level: Hard",
+                "Prep Time 20 minutes"
+            ]
+        },
+        {
+            "id": "rec8",
+            "dishImage": "assets/recipes_img/kulich.png",
+            "title": "Бездрожжевой кулич",
+            "duration": "50 min",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec9",
+            "dishImage": "assets/recipes_img/indeika.png",
+            "title": "Запеченная индейка",
+            "duration": "55 min",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec10",
+            "dishImage": "assets/recipes_img/hurma.png",
+            "title": "Салат с хурмой",
+            "duration": "20 min",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec11",
+            "dishImage": "assets/recipes_img/farsh.png",
+            "title": "Закрытый пирог с фаршем",
+            "duration": "2 hours",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec12",
+            "dishImage": "assets/recipes_img/caramel.png",
+            "title": "Домашняя карамель",
+            "duration": "35 min",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec13",
+            "dishImage": "assets/recipes_img/banana.png",
+            "title": "Банановый кекс",
+            "duration": "40 min",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec14",
+            "dishImage": "assets/recipes_img/brauni.png",
+            "title": "Брауни",
+            "duration": "50 min",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        }
+    ]
+}
